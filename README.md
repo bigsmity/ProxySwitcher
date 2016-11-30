@@ -7,5 +7,5 @@ I found myself needing to change my proxy settings regularly when working on dif
 
 The network name is matched to your predefined settings and the proxy updated accordingly. This works for wired and wireless networks.
 
-If this software makes your life a little easier, please consider making a small bitcion donation :)
+If this software makes your life a little easier, please consider making a small bitcoin donation :)
 13qCYNWNEnxohetBJzn93xc39wauwA5M7U
