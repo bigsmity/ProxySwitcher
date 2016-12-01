@@ -1,7 +1,6 @@
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\bin\Release\ProxySwitcher.exe.config
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\Interop.NETWORKLIST.dll
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.csproj.ResolveComReference.cache
-C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.Form1.resources
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.Properties.Resources.resources
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.csproj.GenerateResource.Cache
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.exe
@@ -17,3 +16,4 @@ C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitch
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.exe.manifest
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.application
 C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\bin\Release\favicon.ico
+C:\Users\madness\documents\visual studio 2015\Projects\ProxySwitcher\ProxySwitcher\obj\Release\ProxySwitcher.FormConfig.resources

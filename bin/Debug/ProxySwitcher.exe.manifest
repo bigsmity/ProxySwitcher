@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JX5A4sHCiAkORLBj8RETKd/s1WLV/NeP02/bm8rrmP8=</dsig:DigestValue>
+        <dsig:DigestValue>t8JuZAkGtCstZrmpRN5o9MlcIcy3BkMn4Gt9COI3Qic=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProxySwitcher.exe" size="86976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProxySwitcher.exe" size="87488">
       <assemblyIdentity name="ProxySwitcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0527JVfmniJn4iCMOEE9Wn3/o9Jox9fVwIs8PiT1xso=</dsig:DigestValue>
+        <dsig:DigestValue>AaTwdZtP3BB8fRsAyrBPMfc1Pxw5bRMfQWaN7pKMjXE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
