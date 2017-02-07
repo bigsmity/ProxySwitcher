@@ -128,6 +128,7 @@ namespace ProxySwitcher
             refreshReturn = InternetSetOption(IntPtr.Zero, INTERNET_OPTION_REFRESH, IntPtr.Zero, 0);
 
             notifyIcon1.BalloonTipText = "Proxy Change (" + proxy.Name + ":" + proxy.NetworkID + ":" + proxy.Proxy + ":" + proxy.Port + ")";
+            notifyIcon1.Text = "Proxy (" + proxy.Name + ":" + proxy.NetworkID + ":" + proxy.Proxy + ":" + proxy.Port + ")";
             notifyIcon1.ShowBalloonTip(3000);
         }
 
